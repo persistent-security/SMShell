@@ -32,4 +32,4 @@ python3 server-console.py --mifi-ip 192.168.0.1 --mifi-username admin --mifi-pas
 
 A demo as presented by Markus at Offensive is shown below. On the left is the operator's VM with a MiFi attached, whereas on the right window is client agent.
 
-![Animation](https://github.com/persistent-security/SMShell/assets/134269747/a2234c03-5a7a-4ee6-90d5-66b640a0b63c)
+![Animation](https://github.com/persistent-security/SMShell/assets/134269747/a37731a0-54ce-458f-8bee-131592407d56)
