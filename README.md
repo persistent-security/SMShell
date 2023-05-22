@@ -1,7 +1,7 @@
 # SMShell
 PoC for an SMS-based shell. Send commands and receive responses over SMS from mobile broadband capable computers.
 
-This tool came as an insipiration during a research led by Markus Vervier, presented at [Offensivecon 2023](https://www.offensivecon.org/speakers/2023/markus-vervier.html)
+This tool came as an insipiration during a research on eSIM security implications led by Markus Vervier, presented at [Offensivecon 2023](https://www.offensivecon.org/speakers/2023/markus-vervier.html)
 
 # Disclaimer
 This is not a complete C2 but rather a simple Proof of Concept for executing commands remotely over SMS.
